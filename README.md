@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natthapat Sripisuttisakul
 - 👀 I’m interested in Cyber Security and Full Stack Developer
-- 🌱 I’m currently learning all interestly
+- 🌱 I’m currently learning all interestled
 - 💞️ I’m looking to collaborate on ------
 - 📫 How to reach me : zeminz128@gmail.com
 
